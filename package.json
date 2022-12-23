@@ -1,0 +1,19 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "description": "Landing page for BraydenJohnson.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GBrayJ/BraydenJohnson.dev.git"
+  },
+  "author": "Brayden Johnson",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/GBrayJ/BraydenJohnson.dev/issues"
+  },
+  "homepage": "https://github.com/GBrayJ/BraydenJohnson.dev#readme"
+}
